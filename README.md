@@ -4,6 +4,8 @@ Repository ini berisi proses analisis time series pada data jumlah tenaga kerja 
 
 ### Isi Repository
  - Dataset USFemalesAged20+Job1948-81.csv (446 observasi)
+   
+https://drive.google.com/file/d/1HvvgtM_XqaCKy4fp-5Rr_JBvIRkQZOem/view?usp=sharing
 
 ### Tools
 - Python
